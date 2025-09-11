@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: Pengantar
-- file: Crawling
-- file: Crawling PTA Trunojoyo
+- file: crawling
+  title: Crawling
+- file: crawling_pta
+  title: Crawling PTA Trunojoyo
+- file: crawling_berita
+  title: Crawling Berita Kompas
+
