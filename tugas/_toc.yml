@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 chapters:
+- file: pengantar
+  title: Pengantar Pencarian dan Penambangan Web
 - file: crawling
   title: Crawling
 - file: crawling_pta
